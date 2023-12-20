@@ -1,0 +1,6 @@
+Pillow==8.2.0
+Requests==2.31.0
+streamlit==1.26.0
+
+
+#  docker build -t atul1302/demo_nlp:latest .
